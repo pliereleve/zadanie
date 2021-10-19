@@ -1,0 +1,6 @@
+C:\Users\Joanna\Desktop\c#\zadanie\bin\Debug\zadanie.exe.config
+C:\Users\Joanna\Desktop\c#\zadanie\bin\Debug\zadanie.exe
+C:\Users\Joanna\Desktop\c#\zadanie\bin\Debug\zadanie.pdb
+C:\Users\Joanna\Desktop\c#\zadanie\obj\Debug\zadanie.csprojResolveAssemblyReference.cache
+C:\Users\Joanna\Desktop\c#\zadanie\obj\Debug\zadanie.exe
+C:\Users\Joanna\Desktop\c#\zadanie\obj\Debug\zadanie.pdb
